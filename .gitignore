@@ -2,7 +2,6 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.csv
-*.xlsx
 *.parquet
 *.pkl
 *.h5
